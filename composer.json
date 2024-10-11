@@ -31,5 +31,11 @@
         "Krlove\\EloquentModelGenerator\\Provider\\GeneratorServiceProvider"
       ]
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/iamdevhnoo/eloquent-model-generator/tree/main"
+    }
+  ]
 }
